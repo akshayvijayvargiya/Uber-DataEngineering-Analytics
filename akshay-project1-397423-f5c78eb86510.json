@@ -1,0 +1,17 @@
+{
+  "type": "service_account",
+  "project_id": "akshay-project1-397423",
+  "private_key_id": "f5c78eb865102ee80145f12d3e075e12e931906a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/05RbecQyERRr\nBmW5XKbAT2KvFkvvVxvaM+3S1YPgRI0PVV0LhCtgtlvWlZ/zmhKP4RVbMS28RzkQ\nmYOxtqgzvJYKwu1v4AcjDzIN5BQ8Yl1myoANJrOa4yfdQMz+PJRM91yW7pL5RSta\nKB9RrK5oyvauKW0di7zR5t3bUj04lpRYX2P/OhfuzLC86wKBJnXyRFmUzvCy42ge\n3DjKtwiMlrmwFjLQQOCJ0Wv7g6G6lmMFicvaylpisLgabli5Lie+vY7XgIezT3rh\n5ZT4aB3Xlg4vpDrk1mVHNLjmrZ9S4MpqpEOyEOIhQn6XUjFUL0jN/ugWx71Z+mIy\nnPbFs6hpAgMBAAECggEAFDKecd1J262xtS0ow9IuGpyhOudBmpNU8u450dO6fYAq\nTB2EXQSPHrFEzTzW6SrlXnHoMkBk3Oiw6P8I/0rIvh3SvJJWtstjZP0iG5VSziLb\nS8nxnrDfA2V8mo7KptBRGyOGg7veDNIMJQOJfKuOd6k7PQ5Ol2hRutYwsPmhSZZe\nOYJSk3IggaS4HicZ+7CTASy+e6Msb7hLxCjzDfDGQLJAUEEAaB7VuZOEO1wjJ31h\nMqreutcJ72AoajLyxfxmF/i4FK6SaftqqyBo2FOSlcT4l0n5IZMEXuUX6ZR8FJsP\nEtGnOBjcg7ebExiiQJpvYQkaSmTwBgZzpwTFZAm1EwKBgQD8s5asSUd8LK6R+iT6\nGVPrbnT9T6hef8t7aG1H2sHMv2cLXLHyju0/errWnGuujJkYEBoB/uylznyhF67i\nSZ/+1j1EjrNrI+13DaAig5nsZSOWBz2fbrUlcdzERjQnS/VpsRzmS1xeBLhpOSnd\nKqPeCEElspaSvMMBAoi/n08mywKBgQDCVJMk06gBLR7juRBpKrf4nWFgE79zzRTw\nUBajXi9JNrtpv52Ux7n9h+jwyZJk07VVMj0wilmfo8zQkMRcVtdVivarndzuPYMe\nuWPsvltWszgxQJ+5SX6cRKjkx3zWwV9lxlHGNuaAo8wIw+lldcaNm/f+BxpREYDY\n3pgpGLyTGwKBgQDw5hMhMspe6gmRR7GwaizCJ46HXUTYsWM9xhNHiJdvpJeLEVbi\nMLai6VDr/jn5MDdR5Sel92uJtQrCV110g1NvELVfgdowrRNXhzm9LU+zN8dw4n4w\nWs19YMpgobxeKd9OXnV6ZSUsy7sxNDlgiaGlrKDOWy2HvUL4132djzVZeQKBgQCH\nlLJEk1c32t8eSlPky+UnE8aIXb7JcGAXegkRWfjrv7/p+8JZty9Qb65ZsIjux7ZQ\nBokigKQe+Q1Axn/5XK1IBXgsLCukHE6K9RV+ayEW0Ft4IXpOr7QiGtUrKPM0ch24\nyDDtdghD4APOacFBBHbO/e570UDPJsMai9LleVi32QKBgQCz4yI7JQDOLiyHilND\nzHNUqXzSK4xdDpE/XFPXbp4mhaL0sA30g7J5MjdZf9nspKfEJrhjECoKQKvUe7uV\n6Uq0xDYXM+T7K2aEXVtsF7IHB7WcGCHN+6uSVaAITc3iF6KRsz1NT0VREOs1SlZD\nJZUNGibqv3fk992kZExYMsRb5Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-dataengineering-akshay-pr@akshay-project1-397423.iam.gserviceaccount.com",
+  "client_id": "117679497834939541992",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-dataengineering-akshay-pr%40akshay-project1-397423.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+
+
+
